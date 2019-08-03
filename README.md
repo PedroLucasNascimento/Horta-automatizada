@@ -8,4 +8,4 @@
 <h1>Exemplos de onde pode ser instalado</h1>
 <p><img src="horta-em-apartamento.jpg" alt="" width="300" height="300" /></p><p><img src="hortatradicional.jpg" alt="" width="300" height="300" /></p><p><img src="iluminação artificial.png" alt="" width="300" height="300" /></p>
 <h1>Materiais</h1>
-<p>-Arduino UNO;<br />-Display LCD 16x2;<br />-Potenci&ocirc;metro linear de 10k;<br />-Modulo Sensor de umidade do solo;<br />-2x M&oacute;dulo rel&eacute; 5V;</p>
+<p>-Arduino UNO;<br />-Display LCD 16x2;<br />-Potenci&ocirc;metro linear de 10k;<br />-Modulo Sensor de umidade do solo;<br />-2x M&oacute;dulo rel&eacute; 5V;<br />-Módulo Sensor de Luminosidade Luz LDR;</p>
